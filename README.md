@@ -13,7 +13,7 @@ that relate to standard deviation and mean of individual sensor measurements. Th
 of selected metrics is the one identified with variables in the raw data set that 
 include `mean()` or `std()` in their name.
 
-The result is saved to disk in a file called "tidy_samsung.txt" which is created
+The result is saved to disk in a file called `tidy_samsung.txt` which is created
 by a call to write.table with all default arguments. 
 
 ### Repository contents
